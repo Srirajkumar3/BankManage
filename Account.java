@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.Random;
 
 public class Account {
@@ -67,3 +68,7 @@ private int genAcBal() {
 
 }
 
+=======
+hi
+  
+>>>>>>> 250fd10f1903fbbbd8e6702d9e605e5f8334adfd
